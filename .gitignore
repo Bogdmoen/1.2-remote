@@ -1,0 +1,12 @@
+#ingnored type of files
+
+/tmp
+
+*_old
+
+*_backup
+
+Thumbs.db
+
+.DS_Store
+
